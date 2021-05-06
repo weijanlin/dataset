@@ -5,10 +5,9 @@
 * \[物件或專案名稱]\weights\產生的模型
 
 > 例如 鞋子 Shoes
->> \dataset\shoes\img
->> \dataset\shoes\cfg
->> > yolov4.cfg
->> > yolov3.cfg
->> > obj.names
->> > 
->> \dataset\shoes\weights
+* \dataset\shoes\img
+* \dataset\shoes\cfg
+  * yolov4.cfg
+  * yolov3.cfg
+  * obj.names
+* \dataset\shoes\weights
