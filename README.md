@@ -7,7 +7,9 @@
 > 例如 鞋子 Shoes
 * \dataset\shoes\img
 * \dataset\shoes\cfg
-  * yolov4.cfg
-  * yolov3.cfg
-  * obj.names
+  * shoes.cfg
+  * shoes.names
+  * shoes.data
+  * test.txt
+  * train.txt
 * \dataset\shoes\weights
