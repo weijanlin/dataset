@@ -1,4 +1,4 @@
 classes = 1
-train = data/shoes_train.txt
-names = data/shoes.names
-backup = backup/
+train = /content/dataset/shoes/cfg/train.txt
+names = /content/dataset/shoes/cfg/shoes.names
+backup = /content/dataset/shoes/weights
