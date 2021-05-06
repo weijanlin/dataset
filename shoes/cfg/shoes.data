@@ -1,0 +1,4 @@
+classes = 1
+train = data/shoes_train.txt
+names = data/shoes.names
+backup = backup/
